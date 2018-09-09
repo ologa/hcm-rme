@@ -1,0 +1,39 @@
+{
+  "global": {
+    "CREATE": "Create",
+    "CANCEL": "Cancel"
+  },
+  "dashboard": {
+    "WELCOME": "Welcome to Angle !"
+  },
+  "topbar": {
+    "search": {
+      "PLACEHOLDER": "Digita e pressiona enter.."
+    }
+  },
+  "sidebar": {
+    "WELCOME": "Bem Vindo",
+    "heading": {
+      "HEADER": "Navegacao Principal"
+    },
+    "nav": {
+      "SINGLEVIEW": "Single View",
+      "menu": {
+        "MENU": "Menu",
+        "SUBMENU": "Sub Menu"
+      }
+    }
+  },
+  "emr": {
+    "patient": {
+      "NEW_PATIENT": "Novo Paciente",
+      "PATIENT_LIST": "Lista de Pacientes",
+      "PATIENTS": "Pacientes",
+      "NAME": "Nome",
+      "AGE": "Idade",
+      "GENDER": "Sexo",
+      "REGISTRATION_DATE": "Data de Registo",
+      "PID": "NID"
+    }
+  }
+}

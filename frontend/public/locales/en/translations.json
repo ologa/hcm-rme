@@ -1,0 +1,39 @@
+{
+  "global": {
+    "CREATE": "Create",
+    "CANCEL": "Cancel"
+  },
+  "dashboard": {
+    "WELCOME": "Welcome to Angle !"
+  },
+  "topbar": {
+    "search": {
+      "PLACEHOLDER": "Type and hit enter.."
+    }
+  },
+  "sidebar": {
+    "WELCOME": "Welcome",
+    "heading": {
+      "HEADER": "Main Navigation"
+    },
+    "nav": {
+      "SINGLEVIEW": "Single View",
+      "menu": {
+        "MENU": "Menu",
+        "SUBMENU": "Sub Menu"
+      }
+    }
+  },
+  "emr": {
+    "patient": {
+      "NEW_PATIENT": "New Patient",
+      "PATIENT_LIST": "Patient List",
+      "PATIENTS": "Patients",
+      "NAME": "Name",
+      "AGE": "Age",
+      "GENDER": "Gender",
+      "REGISTRATION_DATE": "Registration Date",
+      "PID": "Patient ID"
+    }
+  }
+}
