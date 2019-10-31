@@ -113,7 +113,7 @@
     "react-scripts": "1.1.1",
     "sass-loader": "6.0.7",
     "style-loader": "0.20.3",
-    "webpack-bundle-analyzer": "2.11.1"
+    "webpack-bundle-analyzer": "3.3.2"
   },
   "napa": {
     "flot": "flot/flot#v0.8.3",
